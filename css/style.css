@@ -460,10 +460,16 @@ a {
 }
 
 .hero-final__subtitle {
+  position: absolute;
+  bottom: 2rem;
+  left: 0;
+  right: 0;
+  text-align: center;
   font-size: clamp(1rem, 1.8vw, 1.4rem);
   font-style: italic;
   font-weight: 400;
-  color: var(--color-blue-dark);
+  color: var(--color-white);
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.4);
 }
 
 /* ═══════════════════════════════════════════════════════════
