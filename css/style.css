@@ -146,7 +146,7 @@ a {
   /* font-size matches .problem-section__subhead exactly, per spec */
   font-size: clamp(1rem, 1.6vw, 1.3rem);
   font-weight: 700;
-  color: var(--color-blue-dark);
+  color: #000000;
   line-height: 1.35;
   margin-bottom: 0.3em;
 }
@@ -296,7 +296,7 @@ a {
 .benefits-col__heading {
   font-size: clamp(1.1rem, 2vw, 1.5rem);
   font-weight: 700;
-  color: var(--color-blue-dark);
+  color: #000000;
   margin-bottom: clamp(16px, 2vw, 24px);
 }
 
@@ -369,7 +369,7 @@ a {
 .looking-for-section__title {
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 700;
-  color: var(--color-blue-dark);
+  color: #000000;
   margin-bottom: 0.6em;
 }
 
@@ -463,7 +463,7 @@ a {
   font-size: clamp(1rem, 1.8vw, 1.4rem);
   font-style: italic;
   font-weight: 400;
-  color: #000000;
+  color: var(--color-blue-dark);
 }
 
 /* ═══════════════════════════════════════════════════════════
