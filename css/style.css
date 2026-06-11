@@ -260,8 +260,8 @@ a {
 .career-section__attribution {
   font-size: clamp(0.9rem, 1.5vw, 1.05rem);
   font-style: italic;
-  /* Gold matches the warm tone visible in the screenshot attribution line */
   color: var(--color-gold);
+  text-align: right;
   margin-bottom: 1.25em;
 }
 
